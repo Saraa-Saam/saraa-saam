@@ -43,11 +43,11 @@ I'm always open to chatting about code, design, or cool tech! Feel free to check
 
 <p align="center">
 <a href="https://github.com/Saraa-Saam/"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
-<a href="https://www.linkedin.com/in/halffrost/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
+<a href="https://www.linkedin.com/in/sara-samir-7840b625b/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
 <a href="https://twitter.com/halffrost"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
 <a href="https://halfrost.com"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=halfrost.halfrost" alt="visitor badge"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Saraa.Saam" alt="visitor badge"/>
 </p>
