@@ -5,10 +5,9 @@ I'm a **Frontend Developer** with a strong eye for clean design and a passion fo
 I also love to explore the backend side from time to time — creating full experiences from UI to API.
 
 🧠 **Tech Stack Highlights**  
-- 🧩 Frontend: **React**, **Tailwind CSS**, **Bootstrap**, **HTML5**, **CSS3**
+- 🧩 Frontend: **HTML5**, **CSS3**, **Bootstrap**, **Tailwind CSS**, **React**
 - ⚙️ Backend Familiarity: **Node.js**, **Express.js**, **Nestjs**, **MongoDB**
-- 🛠️ Tools & Workflow: **GitHub**, **Jira**, **REST APIs**, **CI/CD basics**
-
+- 🛠️ Tools & Workflow: **GitHub**, **Jira**, **REST APIs**
 ---
 
 🌟 **About Me**
