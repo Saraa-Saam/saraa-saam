@@ -27,16 +27,6 @@ I also love to explore the backend side from time to time — creating full expe
 
 ---
 
-📊 **GitHub Stats & Activity**
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halfrost&hide_langs_below=1&theme=default&layout=compact" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=halfrost&show_icons=true&count_private=true&include_all_commits=true" />
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=halfrost&column=7" />
-</p>
-
----
-
 📫 **Let’s Connect!**  
 I'm always open to chatting about code, design, or cool tech! Feel free to check out my work or drop a message.
 
