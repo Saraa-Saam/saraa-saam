@@ -1,6 +1,5 @@
-# Hey there 👋 I'm Sara!
+![github-header-image](https://github.com/user-attachments/assets/e0f7d17a-e87f-4a54-846c-ae51c7b151d6)
 
-![Header](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
 I'm a **Frontend Developer** with a strong eye for clean design and a passion for building fast, accessible, and user-friendly interfaces.  
 I also love to explore the backend side from time to time — creating full experiences from UI to API.
